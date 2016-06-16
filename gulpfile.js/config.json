@@ -35,7 +35,7 @@
       "autoprefixer": {
         "browsers": ["last 3 version"]
       },
-      "sass": {
+      "scss": {
         "indentedSyntax": true,
         "includePaths": [
           "./node_modules/normalize.css"

@@ -10,7 +10,9 @@
     {% block head %}{% endblock %}
   </head>
   <body>
+    {% include "layouts/header.html" %}
     {% block content %}{% endblock %}
+    {% include "layouts/footer.html" %}
     {% block javascript %}
       <script src="javascripts/app.js"></script>
     {% endblock %}
