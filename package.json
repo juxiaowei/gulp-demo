@@ -9,7 +9,7 @@
   "homepage": "http://code.viget.com/gulp-starter/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vigetlabs/gulp-starter.git"
+    "url": "git://github.com/juxiaowei/gulp-demo.git"
   },
   "scripts": {
     "start": "gulp",
